@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinmarketcapTracker.TestConsole", "CoinmarketcapTracker.TestConsole\CoinmarketcapTracker.TestConsole.csproj", "{70D54C1B-75B5-4107-A78B-A859C17C7FF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinmarketcapTracker.Core", "CoinmarketcapTracker.Core\CoinmarketcapTracker.Core.csproj", "{02AFA7C3-A92A-4A78-82C4-EB1923908421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinmarketcapTracker.FetchAppConsole", "CoinmarketcapTracker.FetchAppConsole\CoinmarketcapTracker.FetchAppConsole.csproj", "{539326F2-C02C-4248-9E46-B99DEC08BC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D54C1B-75B5-4107-A78B-A859C17C7FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D54C1B-75B5-4107-A78B-A859C17C7FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D54C1B-75B5-4107-A78B-A859C17C7FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D54C1B-75B5-4107-A78B-A859C17C7FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02AFA7C3-A92A-4A78-82C4-EB1923908421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AFA7C3-A92A-4A78-82C4-EB1923908421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AFA7C3-A92A-4A78-82C4-EB1923908421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AFA7C3-A92A-4A78-82C4-EB1923908421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{539326F2-C02C-4248-9E46-B99DEC08BC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539326F2-C02C-4248-9E46-B99DEC08BC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539326F2-C02C-4248-9E46-B99DEC08BC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539326F2-C02C-4248-9E46-B99DEC08BC10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0CE49A-F430-4A85-AB41-EF3976FDD019}
+	EndGlobalSection
+EndGlobal
