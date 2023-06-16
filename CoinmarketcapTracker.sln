@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinmarketcapTracker.Core",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinmarketcapTracker.FetchAppConsole", "CoinmarketcapTracker.FetchAppConsole\CoinmarketcapTracker.FetchAppConsole.csproj", "{539326F2-C02C-4248-9E46-B99DEC08BC10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinmarketcapTracker.Analytics", "CoinmarketcapTracker.Analytics\CoinmarketcapTracker.Analytics.csproj", "{A9F168AE-5FE4-4580-A698-BACB393F5DD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{539326F2-C02C-4248-9E46-B99DEC08BC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{539326F2-C02C-4248-9E46-B99DEC08BC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{539326F2-C02C-4248-9E46-B99DEC08BC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F168AE-5FE4-4580-A698-BACB393F5DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F168AE-5FE4-4580-A698-BACB393F5DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F168AE-5FE4-4580-A698-BACB393F5DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F168AE-5FE4-4580-A698-BACB393F5DD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
