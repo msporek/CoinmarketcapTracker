@@ -3,6 +3,9 @@ using NoobsMuc.Coinmarketcap.Client;
 
 namespace CoinmarketcapTracker.Analytics;
 
+/// <summary>
+/// Class provides a base functionality for parsing data stored in files in JSON format and running analytical rules against that data.  
+/// </summary>
 public class Analyzer
 {
     private Dictionary<DateOnly, string> _dateToFilePath;
